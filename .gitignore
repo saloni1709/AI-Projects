@@ -1,0 +1,10 @@
+# Environment variables
+.env
+
+# Sensitive data
+whatsapp_bot/contacts.json
+
+# IDE
+.vscode/
+__pycache__/
+*.pyc
