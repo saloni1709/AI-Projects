@@ -3,13 +3,13 @@ from email.mime.text import MIMEText
 from datetime import datetime
 import time
 
-sender = "saloni.goyal1709@gmail.com"
-password = "raie nsni iooa tjvz"
+sender = "your_email@gmail.com"
+password = "your_app_password"
 
 people = [
-    {"name": "Saloni", "email": "saloni.goyal1709@gmail.com", "dob": "21-04", "hour": 0, "minute": 17},
-    {"name": "Goyal", "email": "saloni.goyal7300@gmail.com", "dob": "21-04", "hour": 0, "minute": 17},
-    {"name": "S", "email": "2023pietcssaloni144@poornima.org", "dob": "21-04", "hour": 0, "minute": 17}
+    {"name": "Person1", "email": "person1@gmail.com", "dob": "21-04", "hour": 0, "minute": 17},
+    {"name": "Person2", "email": "person2@gmail.com", "dob": "21-04", "hour": 0, "minute": 17},
+    {"name": "Person3", "email": "person3@gmail.com", "dob": "21-04", "hour": 0, "minute": 17}
 ]
 # Each person has name, email, birthday, and sending time
 
