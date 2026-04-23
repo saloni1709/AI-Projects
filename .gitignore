@@ -3,6 +3,7 @@
 
 # Sensitive data
 whatsapp_bot/contacts.json
+whatsapp_bot/message_log.json
 
 # IDE
 .vscode/
