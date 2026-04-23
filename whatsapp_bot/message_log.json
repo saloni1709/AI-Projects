@@ -1,0 +1,72 @@
+[
+    {
+        "timestamp": "2026-04-23 15:27:15",
+        "action": "whatsapp",
+        "recipient": "9875769969",
+        "status": "success",
+        "details": "SM39841463a5e00988c5da7b31b764fbf9"
+    },
+    {
+        "timestamp": "2026-04-23 15:50:05",
+        "action": "call",
+        "recipient": "9875769969",
+        "status": "failed",
+        "details": "HTTP Error - Unable to create record: From is not a valid phone number"
+    },
+    {
+        "timestamp": "2026-04-23 15:51:33",
+        "action": "call",
+        "recipient": "+919875769969",
+        "status": "failed",
+        "details": "HTTP Error - Unable to create record: From is not a valid phone number"
+    },
+    {
+        "timestamp": "2026-04-23 15:55:29",
+        "action": "call",
+        "recipient": "+919875769969",
+        "status": "failed",
+        "details": "HTTP Error - Unable to create record: From is not a valid phone number"
+    },
+    {
+        "timestamp": "2026-04-23 15:56:13",
+        "action": "whatsapp",
+        "recipient": "9875769969",
+        "status": "failed",
+        "details": "HTTP Error - Unable to create record: Twilio could not find a Channel with the specified From address"
+    },
+    {
+        "timestamp": "2026-04-23 15:57:53",
+        "action": "whatsapp",
+        "recipient": "+919875769969",
+        "status": "failed",
+        "details": "HTTP Error - Unable to create record: Twilio could not find a Channel with the specified From address"
+    },
+    {
+        "timestamp": "2026-04-23 15:58:09",
+        "action": "whatsapp",
+        "recipient": "+919875769969",
+        "status": "failed",
+        "details": "HTTP Error - Unable to create record: Twilio could not find a Channel with the specified From address"
+    },
+    {
+        "timestamp": "2026-04-23 16:14:03",
+        "action": "whatsapp",
+        "recipient": "+919875769969",
+        "status": "success",
+        "details": "SMc4894cdc48eca12cd18391140de1d79d"
+    },
+    {
+        "timestamp": "2026-04-23 16:14:52",
+        "action": "whatsapp",
+        "recipient": "+916350658655",
+        "status": "success",
+        "details": "SM34021ff304b4c076466e4d6ab9a54808"
+    },
+    {
+        "timestamp": "2026-04-23 16:16:19",
+        "action": "whatsapp",
+        "recipient": "+916350638655",
+        "status": "success",
+        "details": "SMb2e2e9ce324148556394025e8156d80c"
+    }
+]
